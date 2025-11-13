@@ -5,3 +5,5 @@ openai-whisper
 pyannote.audio
 pydub
 soundfile
+librosa
+groq
